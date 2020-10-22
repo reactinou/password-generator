@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/05113ba9-74b4-40a0-a752-c6298add4319/deploy-status)](https://app.netlify.com/sites/passwordgenerator/deploys)
 ## Available Scripts
 
 In the project directory, you can run:
