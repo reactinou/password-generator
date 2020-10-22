@@ -1,0 +1,10 @@
+@font-face {
+font-family: 'Metropolis Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Metropolis Regular'), url('Metropolis-Regular.woff') format('woff');
+}
+
+* {
+    font-family: 'Metropolis Regular', sans-serif
+  }
